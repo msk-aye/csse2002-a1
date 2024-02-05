@@ -1,1 +1,4 @@
-CSSE2002 introduction to Java assignment 1, factory simualtor with GUI
+# README
+
+This repository is the completed first assignment task from CSSE2002 at UQ. Only files that are my work are in the src/srg and test/srg directories, the rest are provided by the UQ teaching staff.
+Note this work was initially done locally, without the use of GIT, and was later backed up all in one commit.
